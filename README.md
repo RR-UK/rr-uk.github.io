@@ -1,2 +1,4 @@
-# rr-uk.github.io
-RR-UK Website
+## RR-UK Website 
+- Accessible on rr-uk.github.io
+
+Powered by Python & Pelican
